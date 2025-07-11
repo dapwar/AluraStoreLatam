@@ -1,10 +1,10 @@
 # AluraStoreLatam
-
+___________________________________________________________________________________________________________________________________________________________________
 Análisis de Ventas de AluraStoreLatam.
 
 Este repositorio contiene el cuaderno de Google Colab AluraStoreLatam.ipynb, el cual realiza un análisis exploratorio de datos sobre las ventas de cuatro tiendas de AluraStore en Latinoamérica. El objetivo principal de este análisis es evaluar métricas clave de rendimiento para cada tienda, incluyendo facturación, ventas por categoría de producto, calificación promedio, productos más y menos vendidos, y costos de envío promedio.
 
-🚀 Cómo Abrir y Ejecutar el Cuaderno
+## 🚀:rocket:Cómo Abrir y Ejecutar el Cuaderno
 Para interactuar con este análisis de datos, sigue estos sencillos pasos:
 
 Abre el cuaderno en Colab: Haz clic en el siguiente enlace para abrir el cuaderno directamente en Google Colab:
@@ -50,13 +50,12 @@ Productos Más y Menos Vendidos: Identificar los productos individuales con mayo
 
 Costo de Envío Promedio: Calcular el costo de envío promedio para cada tienda.
 
-## :hammer:Funcionalidades del proyecto
-🛠️ Herramientas y Librerías Utilizadas
+## :hammer:Herramientas y Librerías Utilizadas
 Este proyecto utiliza Google Colab y las siguientes librerías de Python:
 
 pandas: Fundamental para la importación, manipulación y análisis de los datos tabulares.
 
-💡 Hallazgos y Conclusiones Clave
+##:💡 :Hallazgos y Conclusiones Clave
 A continuación, se presentan algunos de los hallazgos destacados del análisis:
 
 Facturación Total:
