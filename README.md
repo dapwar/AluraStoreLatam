@@ -55,7 +55,7 @@ Este proyecto utiliza Google Colab y las siguientes librerías de Python:
 
 pandas: Fundamental para la importación, manipulación y análisis de los datos tabulares.
 
-##:💡 :Hallazgos y Conclusiones Clave
+## :💡:Hallazgos y Conclusiones Clave
 A continuación, se presentan algunos de los hallazgos destacados del análisis:
 
 Facturación Total:
